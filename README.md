@@ -13,6 +13,6 @@ The only external request is Google Fonts, which degrades to a system stack if
 blocked. No build step, no dependencies.
 
 Deep links work per tab: `#overview`, `#velo`, `#slot`, `#tunnel`, `#spin`,
-`#location`, `#results`, `#more`, '#baseball', '#mlb', '#pittsburgh'.
+`#location`, `#results`, `#more`, `#baseball`, `#mlb`, `#pittsburgh`.
 
 Data: Baseball Savant / MLB Statcast, retrieved 2026-09-05.
